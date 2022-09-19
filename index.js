@@ -1,4 +1,4 @@
-const apiURL = 'http://www.omdbapi.com/'
+const apiURL = 'https://www.omdbapi.com/'
 const myAPIKey = '121478d';
 
 const autoCompleteConfig = {
