@@ -1,3 +1,11 @@
+.hero.is-primary .hero-body {
+  background-color: black;
+}
+
+.hero.is-primary .title{
+  font-size : 4rem;
+}
+
 .tutorial {
   width: 600px;
   text-align: center;
@@ -16,11 +24,16 @@ figure .image img {
 
 .notification {
   margin-top: 20px !important;
+  
+}
+
+.notification.is-primary {
   background-color: green;
 }
 
-.is-warning{
-  background-color: red;
+.notification.is-warning{
+  background-color: darkred;
+  color : white;
 }
 
 .results {
@@ -34,7 +47,7 @@ figure .image img {
 
 .hero {
   margin-bottom: 20px;
-  background-color: #455588;
+  color : gold;
 }
 
 .forms {
