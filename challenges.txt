@@ -1,0 +1,6 @@
+Challenges
+
+1. Fetch data about movies - omdbapi.com
+2. Autocomplete widget from scratch
+3. Styling
+
